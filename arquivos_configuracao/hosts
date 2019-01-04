@@ -1,0 +1,5 @@
+# Acesse
+C:\Windows\System32\drivers\etc
+
+# adicione a linha (lembrando que é necessário editar com previlégios de administrador)
+127.0.0.1		www.minhaecommerce.com.br
